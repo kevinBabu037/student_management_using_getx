@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142372649045",
+    "project_id": "getxstudentmanagementapp",
+    "storage_bucket": "getxstudentmanagementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142372649045:android:dfbfe1509e1b25d4dabcdc",
+        "android_client_info": {
+          "package_name": "com.example.getx_student_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO0DaPDmdq4VNuyaXbX3W_tbE--zjdy5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
